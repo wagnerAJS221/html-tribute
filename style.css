@@ -1,0 +1,24 @@
+body{
+    background-image:url("./porsche2.webp");
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+h1{
+   font-size: 2rem
+}
+h1{
+    font-style: normal;
+}
+/* div{
+    font-size: smaller;
+    /* background-color: rgb(199, 179, 179); */
+    height: 20px; 
+    padding: 100px;
+    margin-inline-start: 410px;
+}
+
+h4{
+    margin-inline-start: 60px;
+}
